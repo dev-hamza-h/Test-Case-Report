@@ -1,0 +1,17 @@
+Test Case ID,Feature,Test Scenario,Expected Result,Actual Result,Status,Remarks
+TC001,Home Page,Verify that the home page loads successfully,Home page should load with all elements visible,Home page loaded successfully,Pass,No issue
+TC002,Navigation Bar,Verify that all navigation links are working,All navigation links should redirect to the correct pages,All links working correctly,Pass,No issue
+TC003,Product Listing,Verify that products are displayed correctly,All products should display with correct details,Products displayed with correct details,Pass,No issue
+TC004,Product Details,Verify that product details page shows correct information,Product details page should show accurate information,Product details displayed correctly,Pass,No issue
+TC005,Dynamic Routing,Verify that users are correctly redirected to product or category pages,Users should be redirected to the correct product when clicking on links,Dynamic routing is working correctly,Pass,No issue
+TC006,Add to Cart,Verify that products can be added to the cart,Selected products should be added to the cart,Products added to cart successfully,Pass,No issue
+TC007,Cart Functionality,Verify that the cart updates correctly when items are added or removed,Cart should update item count and total price accurately,Cart updated correctly,Pass,No issue
+TC008,Search Functionality,Verify that users can search for products,Relevant products should appear based on the search query,Search is returning relevant products,Pass,No issue
+TC009,Filter Functionality,Verify that users can filter products by category or price,Filtered products should match the selected criteria,Filtering is working correctly,Pass,No issue
+TC010,Category Display,Verify that category pages show correct products,Each category should display only relevant products,Categories display correct products,Pass,No issue
+TC011,Error Handling,Verify that error messages are displayed correctly,Appropriate error messages should appear for invalid actions,Error messages displayed correctly,Pass,No issue
+TC012,Loading State,Verify that loading indicators appear when data is fetching,Loading animation should show while data is loading,Loading indicators appear as expected,Pass,No issue
+TC013,Checkout Process,Verify that the checkout process completes successfully,User should be able to complete the purchase process,Checkout process completed successfully,Pass,No issue
+TC014,Responsive Design,Verify that the website is responsive on different devices,Website should display correctly on various screen sizes,Website is responsive,Pass,No issue
+TC015,User Registration,Verify that new users can register successfully,New users should be able to create an account,User registration successful,Pass,No issue
+TC016,User Login,Verify that registered users can log in,Registered users should be able to log in with valid credentials,User login successful,Pass,No issue
